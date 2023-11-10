@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>AIT-SNAPSHOT </name>
-	      <url>http://100.25.111.136:8081/repository/AIT-SNAPSHOT/</url>
+	      <url>http://18.206.202.39:8081/repository/AIT-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
